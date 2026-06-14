@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2214 >>
+stream
+BT
+/F1 1 Tf
+/F1 26 Tf 1 0 0 1 54 770 Tm (Krish Agarwal) Tj
+/F1 12 Tf 1 0 0 1 54 746 Tm (Full-Stack Developer | Developer Tools | Browser Extensions) Tj
+/F1 10 Tf 1 0 0 1 54 724 Tm (Email: agarwalpk2301@gmail.com) Tj
+/F1 10 Tf 1 0 0 1 54 710 Tm (GitHub: github.com/Krishagarwal558) Tj
+/F1 10 Tf 1 0 0 1 54 696 Tm (LinkedIn: linkedin.com/in/krish-agarwal-0b803a3b7) Tj
+/F1 15 Tf 1 0 0 1 54 662 Tm (Profile) Tj
+/F1 10 Tf 1 0 0 1 54 642 Tm (Full-stack developer building web applications, browser extensions, developer tools,) Tj
+/F1 10 Tf 1 0 0 1 54 628 Tm (and automation software focused on solving real-world problems.) Tj
+/F1 15 Tf 1 0 0 1 54 596 Tm (Skills) Tj
+/F1 10 Tf 1 0 0 1 54 576 Tm (Languages: Python, JavaScript, TypeScript, Rust, C++) Tj
+/F1 10 Tf 1 0 0 1 54 562 Tm (Frontend: React, HTML, CSS, Tailwind) Tj
+/F1 10 Tf 1 0 0 1 54 548 Tm (Backend: Flask, Django, Node.js) Tj
+/F1 10 Tf 1 0 0 1 54 534 Tm (ML: Pandas, Scikit-Learn, Matplotlib) Tj
+/F1 10 Tf 1 0 0 1 54 520 Tm (Database: MongoDB, SQLite, SQL) Tj
+/F1 10 Tf 1 0 0 1 54 506 Tm (Tools: Git, GitHub, VS Code, Plasmo, Electron) Tj
+/F1 15 Tf 1 0 0 1 54 472 Tm (Featured Projects) Tj
+/F1 10 Tf 1 0 0 1 54 452 Tm (RageShield + FeedGuard - Browser extension for content control, category blocking,) Tj
+/F1 10 Tf 1 0 0 1 54 438 Tm (reply checking, feed purity scoring, and local-first processing.) Tj
+/F1 10 Tf 1 0 0 1 54 416 Tm (CodeLens AI - AI-assisted code analysis platform for repository analysis and) Tj
+/F1 10 Tf 1 0 0 1 54 402 Tm (structured source-code insights.) Tj
+/F1 10 Tf 1 0 0 1 54 380 Tm (CoachHub - Role-based coaching institute management system with student, teacher,) Tj
+/F1 10 Tf 1 0 0 1 54 366 Tm (and admin panels.) Tj
+/F1 10 Tf 1 0 0 1 54 344 Tm (Yap Wars - Interactive Discord bot with multiplayer roast battles, voting systems,) Tj
+/F1 10 Tf 1 0 0 1 54 330 Tm (and moderation.) Tj
+/F1 10 Tf 1 0 0 1 54 308 Tm (Flask Ecommerce - Responsive ecommerce platform with product management and) Tj
+/F1 10 Tf 1 0 0 1 54 294 Tm (administrative controls.) Tj
+/F1 15 Tf 1 0 0 1 54 260 Tm (Currently Working On) Tj
+/F1 10 Tf 1 0 0 1 54 240 Tm (RageShield | Browser Extension Development | Full-Stack Applications | AI-Assisted Tools) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2577
+%%EOF
