@@ -364,6 +364,25 @@ h3 {
   font-size: 14px;
 }
 
+.try-feature {
+  display: grid;
+  gap: 4px;
+  margin-top: 16px;
+  border: 1px solid rgba(15, 118, 110, 0.24);
+  border-radius: 8px;
+  padding: 14px;
+  background: var(--surface-soft);
+}
+
+.try-feature strong {
+  font-size: 14px;
+}
+
+.try-feature span {
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .project-links {
   display: flex;
   flex-wrap: wrap;
