@@ -49,7 +49,7 @@
           <h2>Practical software for real workflows.</h2>
         </div>
         <p class="about-copy">
-          I am a full-stack developer focused on useful products: browser extensions, developer tools that helps with efficiency, and web apps that help teams manage everyday work. I like building polished interfaces backed by clear, maintainable systems.
+          I am a full-stack developer focused on useful products: browser extensions, developer tools that help with efficiency, and web apps that help teams manage everyday work. I like building polished interfaces backed by clear, maintainable systems.
         </p>
       </section>
 
@@ -160,25 +160,27 @@
               </figure>
               <div class="project-copy">
                 <div class="project-tags" aria-label="Project status">
-                  <span class="status-tag">Under Development</span>
+                  <span class="status-tag">Public Beta</span>
                 </div>
                 <h3>DevSync Cloud</h3>
                 <p>
-                  Desktop sync tool for keeping project folders moving between trusted devices through a backend-connected workspace.
+                  Real-time desktop folder synchronization tool that keeps project folders updated across trusted devices through a backend-connected workspace.
                 </p>
                 <div class="tech-stack" aria-label="DevSync tech stack">
                   <span>Python</span>
-                  <span>Electron</span>
-                  <span>Desktop Client</span>
-                  <span>Backend API</span>
-                  <span>Folder Sync</span>
+                  <span>PySide6</span>
+                  <span>FastAPI</span>
+                  <span>PostgreSQL</span>
+                  <span>WebSockets</span>
+                  <span>Watchdog</span>
+                  <span>Docker</span>
                 </div>
                 <p class="project-note">
-                  <strong>How it works:</strong> connect the backend server, sign in, choose a workspace, attach a local folder, and let the client watch project changes so synced devices can stay updated.
+                  <strong>How it works:</strong> sign in, choose a workspace, attach a local folder, and DevSync watches file changes in real time. When a file is created or edited on one device, it is uploaded to the backend and automatically appears on connected devices.
                 </p>
-                <div class="try-feature">
-                  <strong>Try Yourself</strong>
-                  <span>Download the Windows desktop build and test the local folder sync flow on your machine.</span>
+                <div class="test-note">
+                  <strong>Tested successfully</strong>
+                  <span>Verified across two different PCs using a public Cloudflare Tunnel backend.</span>
                 </div>
                 <div class="project-links">
                   <a class="button button-secondary button-small" href="https://github.com/Krishagarwal558/DevSync" target="_blank" rel="noreferrer">GitHub</a>

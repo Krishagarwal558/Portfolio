@@ -364,7 +364,7 @@ h3 {
   font-size: 14px;
 }
 
-.try-feature {
+.test-note {
   display: grid;
   gap: 4px;
   margin-top: 16px;
@@ -374,11 +374,11 @@ h3 {
   background: var(--surface-soft);
 }
 
-.try-feature strong {
+.test-note strong {
   font-size: 14px;
 }
 
-.try-feature span {
+.test-note span {
   color: var(--muted);
   font-size: 13px;
 }
