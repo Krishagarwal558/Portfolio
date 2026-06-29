@@ -1,62 +1,74 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 5 0 obj
-<< /Length 2214 >>
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260628183255+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260628183255+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1611
+>>
 stream
-BT
-/F1 1 Tf
-/F1 26 Tf 1 0 0 1 54 770 Tm (Krish Agarwal) Tj
-/F1 12 Tf 1 0 0 1 54 746 Tm (Full-Stack Developer | Developer Tools | Browser Extensions) Tj
-/F1 10 Tf 1 0 0 1 54 724 Tm (Email: agarwalpk2301@gmail.com) Tj
-/F1 10 Tf 1 0 0 1 54 710 Tm (GitHub: github.com/Krishagarwal558) Tj
-/F1 10 Tf 1 0 0 1 54 696 Tm (LinkedIn: linkedin.com/in/krish-agarwal-0b803a3b7) Tj
-/F1 15 Tf 1 0 0 1 54 662 Tm (Profile) Tj
-/F1 10 Tf 1 0 0 1 54 642 Tm (Full-stack developer building web applications, browser extensions, developer tools,) Tj
-/F1 10 Tf 1 0 0 1 54 628 Tm (and automation software focused on solving real-world problems.) Tj
-/F1 15 Tf 1 0 0 1 54 596 Tm (Skills) Tj
-/F1 10 Tf 1 0 0 1 54 576 Tm (Languages: Python, JavaScript, TypeScript, Rust, C++) Tj
-/F1 10 Tf 1 0 0 1 54 562 Tm (Frontend: React, HTML, CSS, Tailwind) Tj
-/F1 10 Tf 1 0 0 1 54 548 Tm (Backend: Flask, Django, Node.js) Tj
-/F1 10 Tf 1 0 0 1 54 534 Tm (ML: Pandas, Scikit-Learn, Matplotlib) Tj
-/F1 10 Tf 1 0 0 1 54 520 Tm (Database: MongoDB, SQLite, SQL) Tj
-/F1 10 Tf 1 0 0 1 54 506 Tm (Tools: Git, GitHub, VS Code, Plasmo, Electron) Tj
-/F1 15 Tf 1 0 0 1 54 472 Tm (Featured Projects) Tj
-/F1 10 Tf 1 0 0 1 54 452 Tm (RageShield + FeedGuard - Browser extension for content control, category blocking,) Tj
-/F1 10 Tf 1 0 0 1 54 438 Tm (reply checking, feed purity scoring, and local-first processing.) Tj
-/F1 10 Tf 1 0 0 1 54 416 Tm (CodeLens AI - AI-assisted code analysis platform for repository analysis and) Tj
-/F1 10 Tf 1 0 0 1 54 402 Tm (structured source-code insights.) Tj
-/F1 10 Tf 1 0 0 1 54 380 Tm (CoachHub - Role-based coaching institute management system with student, teacher,) Tj
-/F1 10 Tf 1 0 0 1 54 366 Tm (and admin panels.) Tj
-/F1 10 Tf 1 0 0 1 54 344 Tm (Yap Wars - Interactive Discord bot with multiplayer roast battles, voting systems,) Tj
-/F1 10 Tf 1 0 0 1 54 330 Tm (and moderation.) Tj
-/F1 10 Tf 1 0 0 1 54 308 Tm (Flask Ecommerce - Responsive ecommerce platform with product management and) Tj
-/F1 10 Tf 1 0 0 1 54 294 Tm (administrative controls.) Tj
-/F1 15 Tf 1 0 0 1 54 260 Tm (Currently Working On) Tj
-/F1 10 Tf 1 0 0 1 54 240 Tm (RageShield | Browser Extension Development | Full-Stack Applications | AI-Assisted Tools) Tj
-ET
-endstream
+GatU2gN)"=&:O:SoV8`)fE)JKVtC4&'"gXA];_q'b=EPiR#sj"1P/H2+2;G6ENqHb>u%p;K4at#\kera:ZqNEMpF(#\t7C(a="_ko*+r\Ar#L^)U;.X3Us/>]fu*Ar+<]nfnT_@cAMcFT>9%8]7Y_=Y$0nY(TpredHMH!b`],<VDh1tT_T8GIrk%mipV/KG5JBbr9#4m\Wi)AA`8Maq3jsAED?HSI@i#9%A$g?[5%G>r,-dpKM"sU6N4qc',i2ka8rOYFLGqlci)a2pTPO8Ub69RZM2Y3;l/kJ8YH?qZo0^mZa5oII?hai7DB]J]?Go):hT[KB=5kR0&N)@-XlK7?pI^[J3Nl$4IOp5h)CPb7GN_j=$.D!"-UV^OVY2j>1TEF`G_7OrUVp_#JJhJ3c?A+$dMPU=pW5cSboTPpH(U;].)qbm3s+;63;$u)]fR61+>P%*Q(#I.b=2Slb+N1lXn$ZQ:AK.:K_R8;HT,[$bKi9dmAc!i=QgNjP!&N*0o;-/L/EF$7&D@ZOZQFjdYGt76QE'?D=EAh`Z/_K0kmL%cuJW5c<3b>bW4,e:MR;P3!I5\N22a4e?!;>WmNaiYOJ@cGjq\Q'02CRGE^El',bG.4iUlGJhH3*dqI2Q>;Q\[$GEpC)1fqX@:T`ZOjbtencY.X;/0=p[Vs^lF,t.2.:3hZ^@3_9t,;F;NF#J24K;'ACdOO2WMF<&%TO>c,Ym#U5cNP_80eM&"J>5]pmnTE+_(].F`>^.M`f/d?R^OGpJe\H$&q:i6%f,1\PQEp?3#%n`H#q=PQ]6(7<<2kZK<7_DWa2Bd@uMCaPF4+unAlAX3MDn,_>q353(\dFX5ZgnUi(2V&j4Me<9a@Zq3+qW:X(El^ls:\=@a)$gg7CZLs-d@oWpeb-$2]R-oD34$0884%0b&?*&!m:Ue-RJ1n)\E0jm[J\G@p"V0jD:9&t*iHWhRdeg-,B9C!.6Y+C?+Sn7&Ym<2Y!U>?$^AYaXSGVDS/]Tr_a;cXjT\b4-)tXan+^m0G%F1Yl1;AE6+*"t<K1gY`^pA+_@r0Tn.;FjLZ*&EE+HUkXZNg<]k(b@O42'50?SU1-Jd`d_a\N`P@mQNSFCPM]?j2FTiChR<?htXD@<g_&@#g_7P\1'ZJ8QlWR]=<pN9(&aiZ#Xkf>d##,&#:fqbZgK,GnmX&+U>jMg0q%h@uG0S!"<@?o[j/iX!Rl9$UG\Ar8^Y!_%oS-ePNG\QJf6G*2SR$O*mQ/P`_J<gsVF3L)0,R4D3?JmpcR.A$M-tWdhHKt>CarH?S-<+c`\'UH*blJQf6^14R<=tmfeg`;#,Wo>;<.m6hCD$(njCC-8%Z_p$6Kj?f'1cn4Yu%nXpFD0-mD&D/X/O.t/>I,WRhGYOA^!dA[go$j-r?3fGVp^F_[85IMq+X=VMkRgD1Qf2*$KP%Q=pp'[@E!*r*0-Oo<0Mkp+`AN"Rr'0D`F;2,fP>X$J_r(@SKc&9#ei;=/hM$N6T`[8;H;E[oY?$U."@upbZJ0Qh?n_?2PV(#NRdI$BA2`O#5iYqNNec^Qcg+Y@XPB'H>I9s0\"2(h@pYAhT7G+r1A\DYGgbmtboj"<kEm#eMD7llV#jSbr_'C[4j~>endstream
 endobj
 xref
-0 6
+0 9
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000000311 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000872 00000 n 
+0000000931 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<<
+/ID 
+[<7f9a69a307b2285a15d5ec5c86d00a05><7f9a69a307b2285a15d5ec5c86d00a05>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
 startxref
-2577
+2633
 %%EOF

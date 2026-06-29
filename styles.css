@@ -214,6 +214,12 @@ h3 {
   font-size: 16px;
 }
 
+.button-small {
+  min-height: 38px;
+  padding: 9px 13px;
+  font-size: 13px;
+}
+
 .text-link {
   color: var(--accent-blue);
   font-size: 14px;
@@ -321,6 +327,48 @@ h3 {
 
 .feature-list li::marker {
   color: var(--accent-warm);
+}
+
+.project-tags,
+.tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.status-tag,
+.tech-stack span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  border-radius: 999px;
+  padding: 5px 9px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.status-tag {
+  border: 1px solid rgba(194, 65, 12, 0.34);
+  background: rgba(194, 65, 12, 0.08);
+  color: var(--accent-warm);
+}
+
+.tech-stack span {
+  border: 1px solid var(--line);
+  background: var(--surface-soft);
+}
+
+.project-note {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
 }
 
 .project-media {
