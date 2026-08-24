@@ -114,4 +114,41 @@ async function loadGitHubStats() {
   }
 }
 
+// Theme Switcher Logic
+const themeToggleBtn = document.getElementById("theme-toggle");
+
+function initTheme() {
+  const currentTheme = document.documentElement.getAttribute("data-theme") || "dark";
+  document.documentElement.setAttribute("data-theme", currentTheme);
+  if (themeToggleBtn) {
+    themeToggleBtn.setAttribute(
+      "aria-label",
+      currentTheme === "dark" ? "Switch to light mode" : "Switch to dark mode"
+    );
+  }
+}
+
+function toggleTheme() {
+  const currentTheme = document.documentElement.getAttribute("data-theme") || "dark";
+  const newTheme = currentTheme === "dark" ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", newTheme);
+  try {
+    localStorage.setItem("portfolio-theme", newTheme);
+  } catch (e) {
+    // LocalStorage fallback if disabled
+  }
+  if (themeToggleBtn) {
+    themeToggleBtn.setAttribute(
+      "aria-label",
+      newTheme === "dark" ? "Switch to light mode" : "Switch to dark mode"
+    );
+  }
+}
+
+if (themeToggleBtn) {
+  themeToggleBtn.addEventListener("click", toggleTheme);
+}
+
+initTheme();
 loadGitHubStats();
+
